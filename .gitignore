@@ -166,3 +166,4 @@ cython_debug/
 ##VSCode
 
 workspace.code-workspace
+dpl/settings.py
